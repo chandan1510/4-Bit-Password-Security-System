@@ -23,7 +23,7 @@ The system was verified via software simulation and a physical breadboard layout
 
 ### 1. Circuit Schematic
 The foundational logic schematic features pull-down resistor arrays to eliminate floating input states, signal-combining diodes, and dedicated logic IC configurations.
-![Circuit Schematic](Hardware/Schematic/SCH_Schematic2_1-P1_2026-01-31.PNG)
+![Circuit Schematic](https://github.com/chandan1510/4-Bit-Password-Security-System/blob/main/4-Bit-Password-Security-System/Hardware/Schematic/SCH_Schematic2_1-P1_2026-01-31.png)
 
 ### 2. 2D Board Layout
 The 2D layout optimizes trace routing and path tracking to ensure clear isolation between power rails (VCC and GND) across the board footprint.
