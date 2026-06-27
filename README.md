@@ -23,15 +23,15 @@ The system was verified via software simulation and a physical breadboard layout
 
 ### 1. Circuit Schematic
 The foundational logic schematic features pull-down resistor arrays to eliminate floating input states, signal-combining diodes, and dedicated logic IC configurations.
-![Circuit Schematic](SCH_Schematic2_1-P1_2026-01-31.png)
+![Circuit Schematic](SCH_Schematic2_1-P1_2026-01-31.PNG)
 
 ### 2. 2D Board Layout
 The 2D layout optimizes trace routing and path tracking to ensure clear isolation between power rails (VCC and GND) across the board footprint.
-![2D PCB Layout](2D_PCB2_2026-01-31.png)
+![2D PCB Layout](2D_PCB2_2026-01-31.PNG)
 
 ### 3. 3D Component Render
 A 3D physical visualization showcasing component footprints, LED orientations, and structural connector placements for the final manufactured module.
-![3D PCB Render](3D_PCB2_2026-01-31.jpg)
+![3D PCB Render](3D_PCB2_2026-01-31.PNG)
 
 ---
 
