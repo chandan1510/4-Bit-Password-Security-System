@@ -31,9 +31,7 @@ The 2D layout optimizes trace routing and path tracking to ensure clear isolatio
 
 ### 3. 3D Component Render
 A 3D physical visualization showcasing component footprints, LED orientations, and structural connector placements for the final manufactured module.
-![3D PCB Render](https://github.com/chandan1510/4-Bit-Password-Security-System/blob/main/4-Bit-Password-Security-System/Images/3D_PCB2_2026-01-31.png
-<img width="2259" height="80" alt="image" src="https://github.com/user-attachments/assets/6d75f431-1600-4efd-8d2e-bd6c409cc4f1" />
-)
+![3D PCB Render](https://github.com/chandan1510/4-Bit-Password-Security-System/blob/main/4-Bit-Password-Security-System/Images/3D_PCB2_2026-01-31.png)
 
 ---
 
