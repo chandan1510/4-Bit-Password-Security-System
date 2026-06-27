@@ -41,9 +41,16 @@ A 3D physical visualization showcasing component footprints, LED orientations, a
 * **Control & Indicators:** 2x 4-Position DIP Switches, 1x Keylock Switch, 1x Red LED, 1x Green LED
 * **Power Source:** 4V–5V DC Battery Supply
 
-## 📁 Repository Hardware Files
-* `SCH_Schematic2_1-P1_2026-01-31.png`: Full engineering logic schematic.
-* `2D_PCB2_2026-01-31.png`: Layout trace routing visualization.
-* `3D_PCB2_2026-01-31.jpg`: Isometric 3D assembly render of the hardware.
-* `PickAndPlace_PCB2_2026-01-31.xlsx - PickAndPlace_PCB2_2026-01-31.csv`: Automated machine component placement coordinate data for production assembly.
-* `Project report_260110_095533.pdf`: Full laboratory academic engineering report documentation.
+## 📁 Repository Structure & Directory Map
+
+To explore the design assets and engineering data associated with this system, navigate through the top-level **`4-Bit-Password-Security-System`** folder to find the following files:
+
+* **`Documents/`**
+  * `Project report_260110_095533.pdf`: Full laboratory academic engineering report documentation.
+* **`Hardware/Schematic/`**
+  * `SCH_Schematic2_1-P1_2026-01-31.PNG`: Full schematic design logic diagram.
+* **`Hardware/PCB_Layout/`**
+  * `2D_PCB2_2026-01-31.PNG`: Core trace layer and wiring layout preview.
+  * `3D_PCB2_2026-01-31.jpg`: Textured 3D assembly module rendering.
+* **`Hardware/Manufacturing/`**
+  * `PickAndPlace_PCB2_2026-01-31.xlsx - PickAndPlace_PCB2_2026-01-31.csv`: SMT/Thru-hole target component coordinates for machine production assembly.
